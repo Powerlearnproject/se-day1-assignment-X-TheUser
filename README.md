@@ -6,9 +6,11 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering is the procedure of planning, creating, assessing and servicing software applications. Software engineering plays an important role within the technology industry by empowering the production of software applications and software systems that drive several strands of modern life such as transportation and business growth.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+In the 1960s software engineering was found as a speciality
 
 List and briefly explain the phases of the Software Development Life Cycle.
 

@@ -18,7 +18,13 @@ In the 2000s there was the emergence of nimble procedures. This time witnessed t
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-
+1. Planning - Interpreting the extent of the design, the targets, the schedule and the means issued.
+2. Requirements - Assembling and recording user requirements and system needs.
+3. Design - Developing the system structure, user link, and comprehensive scheme records.
+4. Implementation - Composing the code and constructing the software based on the scheme's requirements.
+5. Testing - Running tests to make sure the software encounters quality standards and practical needs.
+6. Deployment - Delivering the software to its targeted users.
+7. Maintenance - Providing help to users, updates and improvements to the software after it has been deployed.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 

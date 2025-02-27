@@ -10,9 +10,14 @@ Software engineering is the procedure of planning, creating, assessing and servi
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-In the 1960s software engineering was found as a speciality
+In the 1960s software engineering was found as a speciality. In the 1960s whilst starting with the instructions and map-reading structures for the Apollo mission, Margaret Hamilton, a computer scientist and systems engineer conceived the name software engineering. She believed that software developers gained the right to be named engineers (Wiliams, 2024). 
+
+In the 1970s there was the emergence organised programming. This time in software engineering initiated a new method of composing software. Organised programming brings attention to rational structures and processes, ensuring that it is simpler to have knowledge of and correct software. At this time, numerous influential programming languages were created such as Fortran by Nicklaus Wirth and C by MacAlistair Richie. The programming languages ensured that it was viable to create compound software, thus pushing the rise of software engineering (Institute of Data, 2024).
+
+In the 2000s there was the emergence of nimble procedures. This time witnessed the establishment of agile methodologies, which focused on fluidity and consumer participation across fixed procedures and recording. Agile methods, such as Extreme Programming (widely known as XP), have developed into being guideline within software development. The methods have assisted in raising the pace and coherence of software development, ensuring that it is viable to bring exceptional software within concise time limits (Institute of Data, 2024).
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.

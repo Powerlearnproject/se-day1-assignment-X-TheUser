@@ -27,10 +27,15 @@ List and briefly explain the phases of the Software Development Life Cycle.
 7. Maintenance - Providing help to users, updates and improvements to the software after it has been deployed.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+The waterfall method is a project management system that emphasises breaking down a project into linear steps. Therefore, it means that one has to go through one step of the process in order to go through to another step. However, the agile methodology emphasises breaking down a project into phases, referred to as sprints, in order to bring about a software faster. 
 
+As discussed, the waterfall methodology follows a rigid process. So each stage (requirements gathering, design, development, testing, deployment) must be concluded before proceeding to the next phase. The agile method follows an iterative development. The process is broken down into smaller 'sprints' or stages, allowing constant commentary and enhances. The waterfall method restricts feedback loops. Therefore, consumer commentary is gathered when the project is concluded. The agile method allows constant consumer participation. This means that the method allows the consumers to constantly engage in gathering commentary and modifying the project. 
+
+The waterfall method needs comprehensive planning and documentation before the project begins. The agile method allows the teams to modify their concerns and features due to new information. The waterfall method is good for projects with fixed needs, whereby changes are small, and coherent timelines are important. THe agile method is good for projects with undetermined needs, whereby speedy transformation to change is important and customer satisfaction is crucial.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+The software developer plans, creates, tests and provides the upkeep or maintenance of the software. The software developer analyses live systems and brings about ideas for enhancing systems. The software developer collaborates with data analysts, designers and staff. They also work with consumers and other engineers to find software needs. They also push knowledge sharing across the whole team and organisation. Along with these, the software developer 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 

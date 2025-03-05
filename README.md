@@ -35,10 +35,17 @@ The waterfall method needs comprehensive planning and documentation before the p
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-The software developer plans, creates, tests and provides the upkeep or maintenance of the software. The software developer analyses live systems and brings about ideas for enhancing systems. The software developer collaborates with data analysts, designers and staff. They also work with consumers and other engineers to find software needs. They also push knowledge sharing across the whole team and organisation. Along with these, the software developer 
+The software developer plans, creates, tests and provides the upkeep or maintenance of the software. The software developer analyses live systems and brings about ideas for enhancing systems. The software developer collaborates with data analysts, designers and staff. They also work with consumers and other engineers to find software needs. They also push knowledge sharing across the whole team and organisation. Along with these, the software developer writes the code for the software, tests the software before distributing it, composes the user training manuals, and does the upkeep of the software once it is distributed.
+
+The quality assurance engineer plans, implements, and leads tests to make sure that the software connects with the quality standards by finding and stating issues. They thus work closely with the software developers to correct the problems, an observing the whole project quality throughout the software development cycle. The quality asurance engineer's main responsibilities include creating test plans, composing test cases, implementing tests, recording issues, and collaborating with the development team to preserve high quality software.
+
+The project manager is integral in managing the project and crucial to the completion of the software project. Project managers are responsible for composing the project proposition, forecasting the project's cost estimations, creating a timetable, predict the staff that will be needed for the project, software procedure customisation, observing and supervising the project, version control management, loss prevention, managerial record writing, addressing, and communicate with clients.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+Integrated Development Environments are important in the sense that they give a detailed forum for software developers to compose, test, and troubleshoot code effectively. Therefore, notably amplifying productivity by giving features such as syntax highlighting, code completion, troubleshooting tools, and project management potential, eventually enhancing code quality and simplifying the development process. Examples include Microsoft Visual Studio and IntelliJ IDEA.
+
+Version Control Systems let developers productively trace alterations made to the code over time, warranting flawless participation, avoiding disputes when numerous developers work on the same project, and giving the capability to go back to former versions if needed, effectively enhancing the quality and coherence of the software development process. Examples include GitHub and Azure DevOps.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 

@@ -52,11 +52,21 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+Unit testing is the excercise of testing the compact testable bits of a software application, named units, on their own to confirm that each part operates as planned and works accurately individually, which assists in finding and correcting bugs in advance during the development process. The importance of unit testing is that it lets developers see and fix issues sooner in the development process, guiding towards enhanced code quality, refined serviceability, and escalated belief in the software by finding problems at the individual component magnitude before they rise into bigger issues, eventually lessening development costs and time used in debugging.
+
+Integration testing is procedure whereby numerous parts are merged and examined jointly to confirm how they connect and work as a reliable system, making sure that data moves accurately between different components of the software application. The importance of integration testing is that it averts possible problems that could surface when components are connected and utilised in unison by users. 
+
+System testing is the procedure whereby the whole software system is tested, analysing its workability, execution, and user encounter to make sure that it meets all the designated needs and works accurately from the user's point of view, finding any bugs or faults that require correction before the software is distributed. The importance of system testing is that it makes sure that the software application meets every workable and non-workable need before being used by the end user, eventually guiding towards a top standard product with less post-release issues and boosted consumer fulfilment. 
+
+Acceptance testing is the procedure whereby the concluded software application is assessed by users or stakeholders to confirm if it meets the designated needs and user requirements, making sure it is prepared for distribution and pleases the target audience when it is distributed. The importance of acceptance testing is that it improves user contentment and reduces dangers linked to initiating a new product.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering is the procedure of composing orders to receive the finest answers from an artificial intelligence model. Prompt engineering is important because it lets users successfully convey their objective and preferred result by creating understandable, brief, and relatedly pertinent prompts, guiding towards more precise, pertinent, and employable answers from the artificial intelligence model, fundamentally acting as a connection between human dialect and the artificial intelligence model's abilities.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+An example of a vague prompt is "Write a short film script about loss". The improved version would be to say "Write a short script about a man who lost his suburban house due to losing his job and has to go back to his township home to live with his estranged brother". The improved prompt states the setting and the exact topic that the user wants the artificial intelligence model to talk about.
